@@ -1,3 +1,3 @@
 # trigger-test
 Test github actions and tekton trigger  
-commit 7
+commit 8
